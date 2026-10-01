@@ -1,6 +1,7 @@
 # SPIKE Prime 탐사로버 GCS — 최종 정리본
 
 ## 결론부터: 무엇이 되고 무엇이 안 되는가
+<img width="958" height="493" alt="image" src="https://github.com/user-attachments/assets/5be84ebd-2436-492c-a937-0509506f8a30" />
 
 | 경로 | 조종 | 텔레메트리 | 상태 |
 |---|:--:|:--:|---|
